@@ -1,4 +1,27 @@
+div{
+    box-sizing: border-box;
+}
+
+
+
 .box{
     border: 1px #000000 solid;
     padding: 20px;
+}
+.bigBox{
+    width: 300px;
+    margin: auto;
+  background-color: #0000ff;
+}
+.smallBox{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-size: 20px;
+   
+}
+#sb1{
+    background-color: #deb887;
+}
+#sb2{
+ background-color: #f5f5dc;
 }

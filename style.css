@@ -25,3 +25,27 @@ div{
 #sb2{
  background-color: #f5f5dc;
 }
+.cities{
+    border: 1px black solid;
+    background-color: #0000ff;
+  padding: 30px;
+  margin-bottom: 20px;
+}
+.title{
+    text-align: center;
+    font-size: 38px;
+    font-style: bold;
+   color:white;
+}
+.citieslinks{
+    
+}
+#container{
+    display: flex;
+  }
+  aside{
+    flex: 1;
+  }
+  #container div{
+    flex: 2;
+  }
